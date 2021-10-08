@@ -3,12 +3,8 @@ Mars Rover
 ## Available Scripts
 
 In the project directory, you can run:
-### `npm start`
+### `python3 -m  mars_rovers_app.mars_rover`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-### npm`run test-node`
+Tor run the unit tests
+### `pytest tests`
 
