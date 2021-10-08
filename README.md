@@ -1,2 +1,2 @@
-# MarsRoverSolution2
+# MarsRoverSolution
 Mars Rover
